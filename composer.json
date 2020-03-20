@@ -1,5 +1,5 @@
 {
-    "name": "Hirbod/laravel-adminer",
+    "name": "hirbod/laravel-adminer",
     "description": "Laravel Adminer Database Manager",
     "keywords": ["laravel5", "laravel6", "adminer", "database", "management", "mysql", "sqlite"],
     "license": "MIT",
